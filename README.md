@@ -5,3 +5,5 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 `JS ENGINES`
 ### Day-2
 `ECMASCRIPT AND HISTORY`
+### Day-3
+`VARIABLES AND DATA TYPES`
