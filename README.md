@@ -7,3 +7,5 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 `ECMASCRIPT AND HISTORY`
 ### Day-3
 `VARIABLES AND DATA TYPES`
+### Day-4
+`MATH FAMILIAR OPERATORS AND HOW TO CALCULATE DISCOUNT`
