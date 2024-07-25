@@ -9,3 +9,8 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 `VARIABLES AND DATA TYPES`
 ### Day-4
 `MATH FAMILIAR OPERATORS AND HOW TO CALCULATE DISCOUNT`
+### Day-5
+`OPERTORS PRECEDENCE`
+### Day-6
+`CONDITIONS`
+
