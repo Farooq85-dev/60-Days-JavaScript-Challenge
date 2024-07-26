@@ -13,4 +13,5 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 `OPERTORS PRECEDENCE`
 ### Day-6
 `CONDITIONS`
-
+### Day-7
+`LOGICAL CONDITIONS`
