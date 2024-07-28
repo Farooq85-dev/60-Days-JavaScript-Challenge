@@ -15,3 +15,5 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 `CONDITIONS`
 ### Day-7
 `LOGICAL CONDITIONS`
+### Day-8
+`SWITCH`
