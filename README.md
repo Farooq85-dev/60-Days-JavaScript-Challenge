@@ -19,3 +19,5 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 `SWITCH`
 ### Day-9
 `COERCION AND FALSY VALUES`
+### Day-10
+`FUNCTIONS`
