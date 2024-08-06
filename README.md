@@ -53,3 +53,11 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 ### Day-13
 
 `SCOPE CHAIN`
+
+### Day-14
+
+`THIS IN JAVASCRIPT`
+
+### Day-15
+
+`ARRAY`
