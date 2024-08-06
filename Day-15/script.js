@@ -82,4 +82,4 @@ console.log(albumsStringfy);
 let dMinor = ["D", "E", "F", "G", "A", "B♭", "C"];
 dMinor.includes("E"); // true
 dMinor.includes("E", 2); // false
-// It accepts also a second parameter, representing the index where to begin to search – the default is zero.
+// Itt accepts also a second parameter, representing the indexx where to begin to search – the default is zero.
