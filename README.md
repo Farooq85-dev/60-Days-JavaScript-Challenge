@@ -61,3 +61,11 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 ### Day-15
 
 `ARRAY`
+
+### Day-16
+
+`CALLBACK AND ARROW FUNCTION`
+
+### Day-17
+
+`FILL AND FILTER`
