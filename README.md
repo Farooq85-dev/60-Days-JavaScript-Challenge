@@ -69,3 +69,7 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 ### Day-17
 
 `FILL AND FILTER`
+
+### Day-18
+
+`SLICE AND SPLICE`
