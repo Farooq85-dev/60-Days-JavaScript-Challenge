@@ -73,6 +73,15 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 ### Day-18
 
 `SLICE AND SPLICE`
+
 ### Day-19
 
-`SLICE AND SPLICE`
+`OBJECT BASIC`
+
+### Day-20
+
+`OBJECT METHODS PART-1`
+
+### Day-21
+
+`OBJECT METHODS PART-2`
