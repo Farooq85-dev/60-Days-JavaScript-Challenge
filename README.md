@@ -85,3 +85,10 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 ### Day-21
 
 `OBJECT METHODS PART-2`
+
+### Day-22
+
+`FOR LOOP
+Follow This Link To Study For Loop
+https://www.freecodecamp.org/news/javascript-for-loops/
+`
