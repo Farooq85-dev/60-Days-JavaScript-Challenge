@@ -100,3 +100,8 @@ Follow This Link To Study While Loop
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while
 `
+
+### Day-24
+
+`For Each Loop
+Follow This Link To Study For Each Loop`
