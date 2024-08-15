@@ -92,3 +92,11 @@ Hy Everone this repo contains a lot of knowledge about JavaScript. I have create
 Follow This Link To Study For Loop
 https://www.freecodecamp.org/news/javascript-for-loops/
 `
+
+### Day-23
+
+`While Loop
+Follow This Link To Study While Loop
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while
+`
