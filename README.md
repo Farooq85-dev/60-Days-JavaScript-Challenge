@@ -104,4 +104,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do.
 ### Day-24
 
 `For Each Loop
-Follow This Link To Study For Each Loop`
+Follow This Link To Study For Each Loop
+https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
+`
+
+### Day-25
+
+`FOR IN LOOP AND FOR OF LOOP
+Follow This Link To Study For Each Loop
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+`
