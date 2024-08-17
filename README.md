@@ -115,3 +115,9 @@ Follow This Link To Study For Each Loop
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
 `
+### Day-26
+
+`FOR IN LOOP AND FOR OF LOOP
+Follow This Link To Study DOM
+https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/
+`

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <!-- DOM LEARNING -->
+
+    <h1 id="myName">Muhammad Farooq</h1>
+
+    <!--  -->
+    <h4 class="myClassName">Muhamamd Mossa</h4>
+    <p class="myClassName">Muhamamd Azam</p>
+    <p class="myClassName">Muhamamd Azam</p>
+
+    <!--  -->
+
+    <div>
+      <button>First button</button>
+      <button>Second button</button>
+      <button>Third button</button>
+      <button type="button" id="fourthBtn">Fourth button</button>
+    </div>
+
+    <div id="gift-box" class="hide">🎁</div>
+    <button id="click-btn">Show the box</button>
+    <!--  -->
+    <div id="outer">
+      <div id="inner">
+        <button id="btn">Click Here</button>
+      </div>
+    </div>
+
+    <div
+      style="
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+      "
+    >
+      <div>
+        <input
+          style="padding: 10px 5px; border-radius: 8px"
+          type="password"
+          id="passwordInput"
+        />
+      </div>
+      <div style="display: flex; justify-content: center; align-items: center">
+        <div>
+          <button id="togglePassword">Show Password</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="timer" id="timerDisplay">00:00:00</div>
+    <div class="controls">
+      <button onclick="startTimer();">Start Timer</button>
+      <button onclick="stopTimer();">Stop Timer</button>
+      <button onclick="resetTimer();">Reset Timer</button>
+    </div>
+
+    <textarea id="textInput" rows="8"> </textarea>
+
+    <p>Word Counts are:- <span id="counts">0</span></p>
+
+    <!-- Custom Js -->
+    <script src="./script.js"></script>
+  </body>
+</html>
