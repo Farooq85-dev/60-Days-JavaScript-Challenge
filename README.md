@@ -126,3 +126,9 @@ https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/
 ### Day-27
 
 `TODO APP`
+
+### Day-28
+
+`
+SETTIMEOUT AND SETINTERVAL
+https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setinterval/`
