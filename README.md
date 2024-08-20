@@ -132,3 +132,9 @@ https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/
 `
 SETTIMEOUT AND SETINTERVAL
 https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setinterval/`
+
+### Day-29
+
+`
+GET_COMPUTED_STYLE
+https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setinterval/`
