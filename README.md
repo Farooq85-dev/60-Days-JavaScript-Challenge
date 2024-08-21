@@ -138,3 +138,9 @@ https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setint
 `
 GET_COMPUTED_STYLE
 https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setinterval/`
+
+### Day-30
+
+`
+NEW KEYWORD
+https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setinterval/`
