@@ -150,3 +150,7 @@ https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setint
 `
 NEW KEYWORD
 https://www.freecodecamp.org/news/javascript-prototype-explained-with-examples/`
+
+### Day-32
+
+`Closures`
