@@ -153,4 +153,7 @@ https://www.freecodecamp.org/news/javascript-prototype-explained-with-examples/`
 
 ### Day-32
 
-`Closures`
+`IIFE
+Follow This Link To Learn IIFE
+https://www.freecodecamp.org/news/iife-in-javascript-what/
+`
