@@ -157,3 +157,7 @@ https://www.freecodecamp.org/news/javascript-prototype-explained-with-examples/`
 Follow This Link To Learn IIFE
 https://www.freecodecamp.org/news/iife-in-javascript-what/
 `
+`LEXICAL SCOPING
+Follow This Link To Learn LEXICAL SCOPING
+https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/
+`
