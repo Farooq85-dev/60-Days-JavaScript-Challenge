@@ -157,7 +157,17 @@ https://www.freecodecamp.org/news/javascript-prototype-explained-with-examples/`
 Follow This Link To Learn IIFE
 https://www.freecodecamp.org/news/iife-in-javascript-what/
 `
+
+### Day-33
+
 `LEXICAL SCOPING
 Follow This Link To Learn LEXICAL SCOPING
 https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/
+`
+
+### Day-34
+
+`CLOSURES
+Follow This Link To Learn CLOSURES
+https://www.freecodecamp.org/news/understand-javascript-closures/
 `
