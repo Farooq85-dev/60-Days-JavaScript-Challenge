@@ -171,3 +171,10 @@ https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/
 Follow This Link To Learn CLOSURES
 https://www.freecodecamp.org/news/understand-javascript-closures/
 `
+
+### Day-35
+
+`BIND
+Follow This Link To Learn BIND
+https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/
+`
