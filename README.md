@@ -178,3 +178,9 @@ https://www.freecodecamp.org/news/understand-javascript-closures/
 Follow This Link To Learn BIND
 https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/
 `
+
+### Day-36
+
+`TEXT NODE AND ELEMENTS
+Follow This Link To Learn TEXT NODE AND ELEMENTS
+`
