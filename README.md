@@ -182,5 +182,11 @@ https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-exa
 ### Day-36
 
 `TEXT NODE AND ELEMENTS
-Follow This Link To Learn TEXT NODE AND ELEMENTS
+`
+
+### Day-37
+
+`VAR VS LET VS CONST
+Follow This Link To Learn VAR VS LET VS CONST
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:text=var%20variables%20can%20be%20updated,const%20variables%20are%20not%20initialized.
 `
