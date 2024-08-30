@@ -190,3 +190,16 @@ https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-exa
 Follow This Link To Learn VAR VS LET VS CONST
 https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:text=var%20variables%20can%20be%20updated,const%20variables%20are%20not%20initialized.
 `
+
+### Day-38
+
+`TEMPLATE LITERALS 
+Follow This Link To Learn VAR VS LET VS CONST
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:text=var%20variables%20can%20be%20updated,const%20variables%20are%20not%20initialized.
+`
+
+### Day-39
+
+`MAP OBJECT AND SET
+Follow This Link To Learn MAP OBJECT AND SET
+https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/#the-map-object-explained`
