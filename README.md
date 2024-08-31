@@ -203,3 +203,7 @@ https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:tex
 `MAP OBJECT AND SET
 Follow This Link To Learn MAP OBJECT AND SET
 https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/#the-map-object-explained`
+
+### Day-40
+
+`CALCULATOR`
