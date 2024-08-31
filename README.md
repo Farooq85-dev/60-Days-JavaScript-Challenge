@@ -207,3 +207,9 @@ https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/#the-
 ### Day-40
 
 `CALCULATOR`
+
+### Day-41
+
+`DATA DESTRUCTURING
+Follow This Link To Learn DATA DESTRUCTURING
+https://www.freecodecamp.org/news/array-and-object-destructuring-in-javascript/`
