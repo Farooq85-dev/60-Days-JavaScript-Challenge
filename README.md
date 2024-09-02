@@ -221,3 +221,10 @@ Follow This Link To Learn SPREAD VS REST OPERATOR
 https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/
 https://medium.com/@pallavi8khedle/difference-between-spread-and-rest-operator-dc43a86a8991#:~:text=The%20spread%20operator%20is%20used,with%20arrays%20and%20function%20arguments.
 `
+
+### Day-43
+
+`CLASS
+Follow This Link To Learn SPREAD VS REST OPERATOR
+https://www.freecodecamp.org/news/javascript-class-handbook/
+`
