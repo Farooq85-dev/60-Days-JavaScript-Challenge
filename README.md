@@ -228,3 +228,9 @@ https://medium.com/@pallavi8khedle/difference-between-spread-and-rest-operator-d
 Follow This Link To Learn SPREAD VS REST OPERATOR
 https://www.freecodecamp.org/news/javascript-class-handbook/
 `
+
+### Day-44
+
+`EVENT LOOP AND CONCURRENCY
+Follow This Link To Learn EVENT LOOP AND CONCURRENCY
+https://www.freecodecamp.org/news/javascript-concurrency-model-and-event-loop/`
