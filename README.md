@@ -234,3 +234,15 @@ https://www.freecodecamp.org/news/javascript-class-handbook/
 `EVENT LOOP AND CONCURRENCY
 Follow This Link To Learn EVENT LOOP AND CONCURRENCY
 https://www.freecodecamp.org/news/javascript-concurrency-model-and-event-loop/`
+
+### Day-45
+
+`ASYNC/AWAIT AND PROMISES
+Follow This Link To Learn ASYNC/AWAIT AND PROMISES
+https://www.freecodecamp.org/news/javascript-async-await/
+
+https://www.freecodecamp.org/news/javascript-promise-object-explained/
+
+https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/
+
+`
