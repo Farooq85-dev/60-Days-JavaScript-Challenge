@@ -246,3 +246,7 @@ https://www.freecodecamp.org/news/javascript-promise-object-explained/
 https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/
 
 `
+
+### Day-46
+
+`Toast Notification`
