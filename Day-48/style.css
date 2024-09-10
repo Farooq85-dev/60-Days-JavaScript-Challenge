@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@100;300;400;500&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-weight: 300;
+  font-style: normal;
+  font-family: "Kanit", Gill Sans;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  background-color: #307694;
+  border-radius: 15px;
+  border: 20px solid #0d517c;
+  padding: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.upper-bar,
+.bottom-bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.right-upper-bar,
+.left-bottom-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.center-bar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-center-bar,
+.right-center-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  gap: 80px;
+}
+
+.center-center-bar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right-upper-bar h3 {
+  transform: rotate(90deg);
+  letter-spacing: 2px;
+}
+
+#page2 {
+  height: 1000px;
+}
+
+#page2 h1 {
+  font-size: 30vw;
+}

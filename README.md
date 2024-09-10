@@ -250,3 +250,11 @@ https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callback
 ### Day-46
 
 `Toast Notification`
+
+### Day-47
+
+`BASIC GSAP ANIMATIONS`
+
+### Day-48
+
+`GSAP ANIMATIONS`
