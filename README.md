@@ -270,3 +270,7 @@ https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callback
 ### Day-51
 
 `GSAP ANIMATIONS`
+
+### Day-52
+
+`GSAP ANIMATIONS`
