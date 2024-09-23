@@ -278,3 +278,7 @@ https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callback
 ### Day-53
 
 `GSAP ANIMATIONS`
+
+### Day-54
+
+`JS QUESTIONS`
