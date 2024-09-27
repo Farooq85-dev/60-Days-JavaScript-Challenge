@@ -286,3 +286,7 @@ https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callback
 ### Day-55
 
 `JS QUESTIONS`
+
+### Day-56
+
+`JS QUESTIONS`
