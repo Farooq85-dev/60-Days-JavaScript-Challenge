@@ -35,7 +35,7 @@ function upperCs(value) {
 }
 console.log(upperCs("i am Farooq"));
 
-// Question 35:- Write a function that accept a string and return how many times a specific letter comes in?
+// Question 36:- Write a function that accept a string and return how many times a specific letter comes in?
 function howMuch(value) {
   let occurrence = {};
 
